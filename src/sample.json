@@ -1,0 +1,19 @@
+[
+
+{
+        "id": "1",
+        "nombre":"Rene Descartes",
+        "Frase": "Pienso, luego existo"
+},
+{   
+    "id": "2",
+    "nombre":"Friedrich Nietzsche",
+    "Frase": "El individuo ha luchado siempre para no ser absorbido por la tribu. Si lo intentas, a menudo estarás solo, y a veces asustado. Pero ningún precio es demasiado alto por el privilegio de ser uno mismo."
+ },
+ {
+    "id":"3",
+    "nombre":"Moliére",
+    "Frase": "Todos los vicios, con tal de que estén de moda, pasan por virtudes"
+
+}
+]
